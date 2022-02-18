@@ -1,0 +1,8 @@
+# Project exclude paths
+/2_interfaces.js
+/3_enum.js
+/4_function.js
+/5_classes.js
+/6_quards.js
+/7_generic.js
+/8_operand.js
